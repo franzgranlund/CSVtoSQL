@@ -23,6 +23,10 @@
 	<string>(* Category of this action goes here. *)</string>
 	<key>AMDefaultParameters</key>
 	<dict>
+		<key>quoteFields</key>
+		<string>1</string>
+		<key>escapeSpecialCharacters</key>
+		<string>1</string>
 		<key>delimiterField</key>
 		<string>;</string>
 		<key>encodingKey</key>
